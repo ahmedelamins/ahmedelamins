@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineering graduate passionate about building scalable Software. <br>Interested in backend engineering, cloud computing, and AI.
+Software Engineer passionate about building scalable Software. <br>Interested in backend engineering & cloud computing.
 
 
 # 💻 Tech Stack:
